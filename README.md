@@ -36,11 +36,11 @@ To run this project locally, clone the repository and follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/vivekvishwakarm/Doctor_Appointment.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repository-name
+   cd Doctor_Appointment
    ```
 3. **Install dependencies:**
    ```bash
